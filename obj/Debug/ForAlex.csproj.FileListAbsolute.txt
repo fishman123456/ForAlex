@@ -1,0 +1,6 @@
+C:\Users\Fishman\Documents\GitHub\ForAlex\bin\Debug\ForAlex.dll
+C:\Users\Fishman\Documents\GitHub\ForAlex\bin\Debug\ForAlex.pdb
+C:\Users\Fishman\Documents\GitHub\ForAlex\obj\Debug\ForAlex.csproj.AssemblyReference.cache
+C:\Users\Fishman\Documents\GitHub\ForAlex\obj\Debug\ForAlex.csproj.CoreCompileInputs.cache
+C:\Users\Fishman\Documents\GitHub\ForAlex\obj\Debug\ForAlex.dll
+C:\Users\Fishman\Documents\GitHub\ForAlex\obj\Debug\ForAlex.pdb
